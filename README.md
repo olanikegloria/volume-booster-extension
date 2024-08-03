@@ -1,0 +1,1 @@
+# volume-booster-extension
